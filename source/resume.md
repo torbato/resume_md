@@ -1,112 +1,100 @@
 <link rel="stylesheet" type="text/css" href="resume.css">
 
-<span class="name">Teng-Jui Lin</span>
+<span class="name">Giovanni Saccoccio</span>
 
 <span class="info">
 
-[![Mail](https://simpleicons.org/icons/minutemailer.svg) tlin10@uw.edu](mailto:tlin10@uw.edu)
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/tengjuilin](https://github.com/tengjuilin)
+[![Mail](https://simpleicons.org/icons/minutemailer.svg) giovannisaccoccio.19@gmail.com](mailto:giovannisaccoccio.19@gmail.com)
+[![GitHub](https://simpleicons.org/icons/github.svg) github.com/torbato](https://github.com/torbato)
+[![Website](https://simpleicons.org/icons/googleearth.svg) saccoccio.net](https://saccoccio.net)
 
 </span>
 
-## Education
+## Formazione Accademica
 
-### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 – Present </time>
+### Università degli Studi di Roma "La Sapienza" | <location> Roma, RM, IT </location> <time> Sep 2023 – Present </time>
 
-- B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
-- Minor in Applied Mathematics and Chemistry
-- GPA: 3.97 | Expected Graduation: June 2023
-- Mary Gates Research Scholarship | 2 Dan Evans Term Scholarships | C-HACK Team 1st, 3rd Places
+- Laurea Triennale in Filosofia e Intelligenza Artificiale [IN CORSO]
 
-### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 – Aug 2018 </time>
+### I.I.S. Liceo Cicerone-Pollione | <location> Formia, LT, IT </location> <time> Sep 2014 – Jun 2019 </time>
 
-- Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
+- Diploma di Maturità Classica, Votazione 97/100
 
-### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 – Jun 2019 </time>
+## Corsi e Certificazioni
 
-- Discovery Fair 1st Place | Science Fair 1st, 2nd Places | 2 Peer Tutor Awards | Merit Student of Zhengzhou
+### CS50’s Introduction to Programming with Python <time> Dec 2023 - Presente </time>
 
-## Relevant Experience
+<location> Harvard University </location>
 
-### Undergraduate Research Assistant <time> Nov 2020 – Present </time>
+- [IN CORSO]
 
-<location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
+### Google Data Analytics Specialization <time> Dec 2022 – Mar 2023 </time>
 
-- Quantified microglia morphology of 3 datasets using image processing and machine learning methods
-- Developed Python API for data analysis for modular integration to fluorescent image analysis workflow
-- Scanned 102 murine breast cancer tissue slices using confocal microscope (24.5 hr) for collaborators
-- Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
+<location> Coursera </location>
 
-### Summer Undergraduate Research Scholar <time> Jun 2022 - Aug 2022 </time>
+- [Attestato](https://www.coursera.org/account/accomplishments/specialization/certificate/UQ82TJ9TPKQ5)
+- Concetti di Raccolta, Pulizia e Analisi dei Dati
+- Fondamenti di Python, R e SQL per l'Analisi dei Dati
 
-<location> STROBE NSF Science and Technology Center on Real-Time Functional Imaging <br/> Department of Physics, Florida International University, PI: Jin He </location>
+### Operatore UAS, categoria A1/A3 Open <time> Aug 2022 </time>
 
-- Fabricated and functionalized gold nanorods for promoting maturation of engineered cardiac tissues
-- Characterized gold nanorods using UV-visible spectroscopy and Raman spectroscopy
-- Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data with Python
-- Processed confocal microscopy images of T-tubular systems of cardiomyocytes with Python
+<location> Ente Nazionale per l'Aviazione Civile </location>
 
-### Calculus Teaching Assistant <time> Sep 2018 – May 2019 </time>
+- Codice Operatore: ITEkfBaLIH
 
-<location> Kinglee High School </location>
+### Responsive Web Design <time> Dec 2022 - Apr 2023 </time>
 
-- Gave AP Calculus AB lectures 4 hours weekly to 5 students in alignment with CollegeBoard curriculum
-- Clarified complex concepts and common confusions about calculus with classroom activities
-- Worked with supervisor to design and grade concept checks, homework, and quizzes with tight deadlines
+<location> FreeCodeCamp </location>
 
-## Other Experience
+- [Attestato](https://freecodecamp.org/certification/torbato/responsive-web-design)
+- Fondamenti di HTML e CSS
 
-### Webmaster <time> Apr 2022 – Present </time>
+### Introduzione alla Data Visualization <time> Nov 2022 </time>
 
-<location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
+<location>Fastweb Digital Academy</location>
 
-- Managed and designed official website; monitored and updated social media accounts and email list
-- Coordinated with internal and external media efforts to ensure up-to-date online presence
-- Facilitated coordination of ChemE BBQ event and graduation ceremony
+### Oltre Excel, i report <time> Oct 2022 </time>
 
-### Secretary <time> May 2021 – Present </time>
+<location>Fastweb Digital Academy</location>
 
-<location> Women in Chemical Engineering, University of Washington </location>
+### Principi di Microsoft Excel <time> Sep 2022 </time>
 
-- Kept transparent meeting records, managed member email list, and maintained student group registration
-- Composed biweekly newsletters to 400+ members to update events, resources, and diversity highlights
-- Facilitated coordination of Veteran's Day event, Wiki-edit-a-thon, and International Women's Day event
+<location>Fastweb Digital Academy</location>
 
-### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
+## Esperienze lavorative
 
-<location> Chinese Students and Scholars Association, University of Washington </location>
+### Più di un lustro di esperienza nel settore HoReCa
 
-- Designed, crafted, and edited posters and videos for major events, such as Student Orientation Programs
-- Assisted in maintenance of official blog and website to provide resources based on students' need
+<p> Ho svolto mansioni incentrate sulle relazioni con il pubblico presso diverse attività di ristorazione e alberghiere nella provincia di Latina </p>
 
-### Maple Hall Council SEED Representative <time> Oct 2019 – Mar 2020 </time>
+## Competenze Linguistiche e Informatiche
 
-<location> Housing and Food Services, University of Washington </location>
+### Lingue:
 
-- Led committee meetings and planned campus-wide competition that raised waste sorting awareness
-- Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives
+- Inglese: livello C2 - competenze avanzate scritte e orali
+- Francese: livello A2 - competenze di scuola secondaria di primo livello
+- Tedesco: livello A1 - competenze di base
 
-### Peer Tutor of Math, Science, and English <time> Sep 2016 – Jun 2019 </time>
+### Sistemi Operativi:
 
-<location> Kinglee High School </location>
+- Microsoft Windows (95 -> 11): livello avanzato
+- Ambienti Linux: livello avanzato (GUI), intermedio (TUI)
+- MacOS: livello avanzato
 
-- Taught active reading and note-taking strategies to English as a second language (ESL) students
-- Reviewed course notes, clarified complex concepts, and provided feedback for course assignments
-- Received 2 Peer Tutor Awards in recognition of outstanding contribution to the peer tutoring program
+### Linguaggi di Programmazione:
 
-### Student Council Historian and Secretary <time> Oct 2017 – Jun 2019 </time>
+- Python: livello universitario
+- HTML e CSS: livello medio
+- R: livello base
+- SQL: livello base
 
-<location> Kinglee High School </location>
+## Altre Esperienze
 
-- Prepared, coordinated, and executed activities, including Halloween activities, Thanksgiving Bonfire Nights, Christmas celebrations, Spirit Weeks, and Academic Integrity Seminar
-- Drafted, edited, and updated activity proposals and meeting minutes for iterative improvement of execution
-- Raised 1000+ CNY funds and 200+ books for children in need with fundraising events
+### Rappresentante dell Corpo Studentesco <time> Oct 2017 - Oct 2018 </time>
 
-### Lab Peer Supervisor <time> Mar 2017 – Mar 2019 </time>
+<location> I.I.S. Liceo Cicerone-Pollione </location>
 
-<location> Kinglee High School </location>
-
-- Supervised biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
-- Taught lab safety guidelines, standard lab procedures, and best practices, as well as ensured lab safety
-
-<!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
+- Presidente del Consiglio di Assemblea Studentesca
+- Coordinamento delle attività studentesche in ambito scolastico
+- Organizzazione di eventi artistici e musicali
+- Responsabile per le comunicazioni con il Corpo Docenti e Responsabili Amministrativi
